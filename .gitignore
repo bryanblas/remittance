@@ -1,0 +1,7 @@
+/vendor
+/.idea
+/public/assets/kyc
+/public/assets/deposit_slip
+Homestead.json
+Homestead.yaml
+.env
